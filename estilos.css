@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+}
+.contenedor {
+    width: 90%;
+    margin: 0 auto;
+}
+img {
+    width: 100%;
+}
+svg{
+    width: 18px;
+}
+.menu {
+    position: fixed;
+    width: 100%;
+    background-color: #1A5B6D;
+    color: #94CDD6; 
+}
+
+#boton {
+    color: #94CDD6;
+    background-color: #1A5B6D;
+    padding: 1%;
+    padding-left: 4%;
+    padding-right: 4%;
+    font-weight: bold;
+    border-radius: 10%;
+    border-style: none;
+}
+header {
+    text-align: center;
+    color: #94CDD6;
+}
+#Exhibition>h2, h3 {
+    text-align: center;
+    color: #94CDD6;
+}
+#Location>h2 {
+    text-align: center;
+    color: #94CDD6;
+}
+a {
+    text-decoration: none;
+    color: #94CDD6;
+    font-weight: bold;
+}
+#Visit>h2, h3 {
+    text-align: center;
+    color: #94CDD6;
+}
+.anchototal {
+    width: 100%;
+}
+#Contact>h2 {
+    text-align: center;
+    color: #94CDD6;
+}
+#phone, #email {
+    width: 98%;
+}
+footer {
+    text-align: center;
+    font-weight: bold;
+    background-color: #1A5B6D;
+}

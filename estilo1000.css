@@ -1,0 +1,113 @@
+
+
+@media screen and (min-width: 601px) and (max-width: 1000px) {
+
+    body {
+    font-family: 'Miriam Libre', sans-serif;
+    }
+    header {
+        background-image: url("../img/ideas.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    #segundo_youtube > p > a > i > svg{
+        background-color:transparent;
+        backface-visibility:visible;
+    }
+    header>h1 {
+        font-size: 3em;
+        margin-top: 0;
+        padding-bottom:15%;
+        margin-bottom: 1%;
+    
+    }
+    #logo_img {
+        width: 40%;
+    }
+    #logo {
+        position: absolute;
+        width: 2.9em;
+        margin-left: 2%;
+    }
+    .anchototal_menu {
+        position: fixed;
+        z-index: 1;
+    }
+    .izquierda>a>p {
+        text-align: center;
+        margin-bottom: 0.5%;
+        margin-top: 0%;
+        font-weight: bold;
+        width: 100%;
+    }
+    .izquierda {
+        width: 100%;
+    }
+    .derecha {
+        width: 100%;
+        text-align: center;
+    }
+    .derecha>a {
+        margin-right: 5%;
+    }
+    .logo {
+        width: 20%;
+        margin-top: 30%;
+        margin-bottom: 1%;
+        filter: drop-shadow(5px 5px 9px black);
+    }
+    #logo_completo {
+        position: absolute;
+        margin-left:auto;
+        margin-right:auto;
+        left:0;
+        right:0;
+        top: 10%;
+        text-shadow: 5px 5px 9px black;
+        width: 75%;
+    }
+    #video_header {
+        display: none;
+    }
+    .play_top {
+        display: none;
+    }
+    #Exhibition {
+        margin-top: 10%;
+    }
+    h2 {
+        font-size: 3em;
+        margin-bottom: 10%;
+    }
+    h3 {
+        font-size: 2em;
+        margin-top: 0;
+    }
+    .L-tercio {
+        display: flex;
+        flex-wrap: nowrap;
+    }
+    .M-mitad {
+        width: 47.5%;
+        margin-bottom: 10%;
+    }
+    .izq {
+        margin-right: 5%;
+    }
+    .derecha_footer>a {
+        margin-right: 5%;
+    }
+    .izquierda_footer>a {
+        margin-right: 5%;
+    }
+    article {
+        margin-bottom: 5%;
+    }
+    input {
+        margin-bottom: 1%;
+    }
+    #videomain {
+        display: none;
+    }
+}
+    
